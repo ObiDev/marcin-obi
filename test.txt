@@ -1,1 +1,1 @@
-zdalne plik z gita do katalogu + 123
+zdalne plik z gita do katalogu + 123 + 456
